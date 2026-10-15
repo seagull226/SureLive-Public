@@ -1,58 +1,29 @@
 # SureLive
 
-**Learn from real video. Listen, notice, repeat, and practice.**
+**SureLive Studio · Edge 预览版 / Edge Preview**
 
-SureLive is a browser extension for language learning with real video content.
+## 中文介绍
 
-It helps turn supported video pages and subtitles into focused learning material without requiring users to leave the video they are watching.
+SureLive 是面向英语视频学习的轻量浏览器扩展。你可以在支持的视频页面查看双语字幕，点击字幕定位到对应内容，并重复播放当前句；也可以打开本地影院，选择自己的视频和 SRT、VTT 或 ASS 字幕，调整播放速度、查看词义并收藏词句。收藏记录与设置保存在浏览器中，Anki 导出可生成 APKG 卡包，媒体能否附带取决于来源可用性和录制条件。
 
-## Main features
+这是首个 Edge 预览版。已验证的使用范围包括 YouTube、哔哩哔哩、百度网盘视频页面及本地影院。部分其他视频网站也可尝试使用，尚未逐一验证；可用性取决于网页播放器和字幕来源。
 
-Depending on the supported website and available subtitles, SureLive can provide features such as:
+本地播放兼容性取决于 Edge 支持的音视频编码。在线翻译、词典和自行配置的 AI 服务需要联网，会向相应服务发送相关文本。
 
-- subtitle-based language learning;
-- bilingual subtitle viewing;
-- words, phrases, and learning-item extraction;
-- Saved learning material;
-- replay of the original video segment;
-- shadowing practice;
-- comparison between original audio and user recordings;
-- pronunciation and phoneme-oriented learning tools;
-- sentence segmentation and focused repetition.
+## English Overview
 
-Feature availability may vary depending on the website, subtitle source, media source, browser capabilities, and the version of SureLive.
+SureLive is a lightweight browser extension for learning English with videos. On supported video pages, view bilingual subtitles, click a subtitle to jump to that moment, and repeat the current sentence. In Local Cinema, open your own video and SRT, VTT or ASS subtitles, adjust playback speed, look up words, and save words and sentences. Saved items and settings stay in your browser. Anki export creates APKG decks; included media depends on source availability and recording conditions.
 
-## Privacy
+This is the first Edge preview. Verified use covers YouTube, Bilibili, Baidu Netdisk video pages and Local Cinema. Some other video websites may also work but have not been individually verified; availability depends on the website's player and subtitle sources.
 
-SureLive is designed to process and store learning data locally wherever practical.
+Local playback depends on the audio and video codecs supported by Edge. Online translation, dictionaries and configured AI services require internet access and send relevant text to the selected service.
 
-SureLive currently does not require a SureLive account and does not operate its own cloud synchronization or payment backend.
+## 资料 / Documents
 
-See [Privacy Policy](./privacy-policy.md) for details.
+| 用途 / Audience | 中文 | English |
+| --- | --- | --- |
+| 审核人员 / Reviewers | [审核说明](reviewer-guide.zh-CN.md) | [Review guide](reviewer-guide.en.md) |
+| 用户 / Users | [隐私政策](privacy-policy.zh-CN.md) | [Privacy policy](privacy-policy.md) |
+| 发布者 / Publisher | [上架填写材料](store-listing.zh-CN.md) | [Store listing](store-listing.en.md) |
 
-## Support
-
-See [Support](./support.md) for reporting bugs and compatibility issues.
-
-## Supported browsers
-
-SureLive is developed for Chromium-based browsers.
-
-The initial public distribution is intended for:
-
-- Google Chrome
-- Microsoft Edge
-
-Support for individual websites and features may differ between browser versions.
-
-## Source code
-
-SureLive is proprietary software.
-
-This repository contains public privacy, support, product-information, and third-party notice documents. It is **not** the SureLive application source-code repository.
-
-## Third-party software
-
-SureLive incorporates or builds upon third-party open-source software.
-
-Applicable copyright notices and licenses will be listed in the final Third-Party Notices document for each release.
+[使用帮助 / Help](support.md) · [第三方声明 / Third-party notices](THIRD_PARTY_NOTICES.DRAFT.md) · [反馈 / Feedback](https://github.com/seagull226/SureLive-Public/issues)

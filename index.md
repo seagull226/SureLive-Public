@@ -4,22 +4,14 @@ title: SureLive
 
 # SureLive
 
-**Learn from real video. Listen, notice, repeat, and practice.**
+SureLive Studio
 
-SureLive is a browser extension for language learning with real video content.
+用视频、双语字幕和句子复读学习英语。
 
-## Public information
+Learn English with videos, bilingual subtitles and sentence replay.
 
-- [Privacy Policy](./privacy-policy)
-- [Support](./support)
-- [Third-Party Notices (Draft)](./THIRD_PARTY_NOTICES.DRAFT)
+[产品介绍与资料 / Overview and documents](README.md)
 
-## About this repository
+[隐私政策](privacy-policy.zh-CN.md) · [Privacy policy](privacy-policy.md)
 
-This repository contains public privacy, support, and release-information documents for SureLive.
-
-SureLive itself is proprietary software. This repository is not the application source-code repository.
-
-## Browser support
-
-SureLive is intended for Chromium-based browsers, initially including Google Chrome and Microsoft Edge.
+[使用帮助 / Help](support.md) · [反馈 / Feedback](https://github.com/seagull226/SureLive-Public/issues)

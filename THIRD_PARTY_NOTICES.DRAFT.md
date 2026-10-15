@@ -1,24 +1,19 @@
-# SureLive Third-Party Notices — DRAFT
+# 第三方声明 / Third-Party Notices
 
-**Do not treat this file as the final Third-Party Notices document.**
+适用于 / Applies to SureLive 0.1.6.
 
-The final document must be generated from the exact production release artifact after dependencies, bundled assets, models, dictionaries, fonts, media-processing components, and inherited source code have been frozen.
+## 中文
 
-## Required final-release audit
+SureLive 使用第三方组件，各组件保留其各自许可。扩展包的 `licenses/` 目录提供具体许可正文及声明，包括 asbplayer（MIT）、CMU 词典、ECDICT（MIT）、Roboto（Apache-2.0）、在线词典来源说明及其他依赖声明。asbplayer 的 MIT 许可不代表所有组件均采用同一许可。
 
-Before publication:
+lamejs 的适用 LGPL 条款、对应库源码、项目补丁、必要适配器、重新组合工具及相关调试许可随包提供，见 `licenses/LAMEJS-NOTICE.txt` 和 `licenses/lamejs-source-0.1.5.zip`。归档名称沿用 0.1.5，因为该组件在 0.1.6 中未变。请按归档内说明替换库并重新组合。
 
-1. enumerate production npm/package dependencies actually shipped;
-2. identify code inherited or adapted from asbplayer and preserve all required copyright/license notices;
-3. enumerate bundled WASM/runtime components;
-4. enumerate ML/ASR/alignment models and model licenses;
-5. enumerate dictionary or lexical datasets and their licenses;
-6. enumerate bundled fonts, icons, media, or other redistributable assets;
-7. distinguish dependencies used only during development from files actually distributed;
-8. verify whether attribution text must appear in-app, in the package, or only in documentation;
-9. copy the exact license texts required by each dependency;
-10. verify that no final distribution asset has an incompatible or unknown license.
+词典查询卡保留来源及许可署名。分级参考公开资料，用于学习参考，不代表官方等级认证。用户打开或导出的媒体仍适用其原有权利与使用条件。
 
-## Release rule
+## English
 
-No Chrome Web Store or Microsoft Edge Add-ons submission should be treated as release-ready until the final Third-Party Notices document has been produced from the release build and reviewed.
+SureLive uses third-party components under their respective licenses. The extension's `licenses/` directory provides applicable texts and notices, including asbplayer (MIT), CMU dictionary, ECDICT (MIT), Roboto (Apache-2.0), online dictionary attribution and other dependency notices. The asbplayer MIT license does not apply uniformly to every component.
+
+Applicable LGPL terms for lamejs, corresponding library sources, project patches, the necessary adapter, recombination tools and associated debugging permission accompany the package. See `licenses/LAMEJS-NOTICE.txt` and `licenses/lamejs-source-0.1.5.zip`. The archive retains its 0.1.5 filename because this component did not change in 0.1.6. Follow its instructions to substitute the library and recombine it.
+
+Dictionary cards retain source and license attribution. Grading references publicly available materials for learning guidance, not official certification. Media that users open or export remains subject to its original rights and terms of use.

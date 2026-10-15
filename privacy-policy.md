@@ -1,119 +1,32 @@
 # SureLive Privacy Policy
 
-**Status: Release draft — must be verified against the final production build before store publication.**
+Updated October 15, 2026. Applies to SureLive 0.1.6 Edge preview, developed by SureLive Studio.
 
-**Last updated: September 20, 2026**
+## Local Data
 
-SureLive is a browser extension designed to help users learn languages from video content through subtitles, saved learning material, playback, shadowing, and related learning tools.
+SureLive processes subtitles, queried words and sentences, playback information and learning settings. Saved items, settings and related media history are stored locally in your browser; media history may include images and audio. Keys for configured services are stored locally and used to authenticate requests to those services. Local Cinema reads video and subtitle files you select. Ordinary local playback does not require uploading the entire video to a SureLive server.
 
-SureLive is designed with local processing and local storage as the default wherever practical.
+You can delete saved items or clear extension data. Uninstalling the extension or clearing browser data may remove records you have not backed up. Exported files remain in the location you selected.
 
-## 1. Information SureLive may access
+## Online Requests
 
-To provide its user-facing features, SureLive may access information such as:
+- Translation sends relevant subtitle text and language parameters to the selected service, including Google or Microsoft.
+- Dictionary lookup sends queried words and language to FreeDictionaryAPI.com or DictionaryAPI.dev. Pronunciation playback may access audio URLs returned by the service.
+- Configured AI sends relevant text, context and request credentials to the configured HTTPS service, such as DeepSeek.
+- Online video and export access the video's website and its subtitle and media services.
 
-- subtitles and text displayed on supported video pages;
-- information associated with the current video or media session;
-- words, phrases, sentences, and other learning content selected or saved by the user;
-- extension settings and learning preferences;
-- locally stored learning history and saved items;
-- audio associated with the media being studied when required for playback, analysis, or shadowing features;
-- microphone audio when the user explicitly starts a recording or speaking-practice feature.
+These services receive connection information such as IP addresses and apply their own privacy and retention policies. Deleting local records does not delete information already sent to third parties. Do not send sensitive content or use untrusted service endpoints.
 
-SureLive accesses this information only when necessary to provide features requested by the user.
+## Website Access And Permissions
 
-## 2. Local processing and storage
+The extension detects videos, reads available subtitles and displays learning controls on matching websites and embedded frames. Its actual access scope is not limited to the three verified websites.
 
-SureLive does not currently operate its own user account system or cloud backend.
+Tab permissions associate videos with user actions. Local storage permissions retain settings, saved items and media history. Context-menu and sidebar permissions support their learning interfaces. Tab audio capture and background documents support user-initiated media recording and export. Bilibili media-host and request-rule permissions support the extension's own media requests.
 
-Learning data such as Saved items, preferences, analysis results, and other extension state may be stored locally in the browser using browser-provided storage mechanisms.
+You can manage website access in Edge extension settings; restricting access may affect features on those websites.
 
-Audio and subtitle data used for learning or analysis may also be processed locally when the relevant feature supports local processing.
+## Contact
 
-Data stored locally remains on the user's device unless a feature explicitly requires communication with a third-party service.
+For questions or privacy inquiries, use [SureLive-Public Issues](https://github.com/seagull226/SureLive-Public/issues). Reports are public: do not include keys, account credentials or private media.
 
-Users can remove locally stored SureLive data by using available deletion/reset controls or by removing the extension and its associated browser data.
-
-## 3. Third-party services
-
-Certain optional or user-invoked features may communicate directly with third-party services, such as dictionary, translation, media, or other information providers.
-
-When such a feature is used, only information necessary to perform the requested operation — for example, a word, phrase, sentence, or related request data — may be sent to that provider.
-
-Those services process information according to their own privacy policies and terms.
-
-SureLive does not operate those third-party services.
-
-The specific third-party services included in a released version of SureLive must be verified and disclosed where required before publication.
-
-## 4. Audio and microphone access
-
-SureLive may require access to media audio or microphone input for features such as shadowing, pronunciation comparison, recording, and playback.
-
-Microphone access is used only when the user invokes a feature that requires recording.
-
-SureLive does not intentionally record microphone audio continuously in the background.
-
-Audio obtained for learning features is used only to provide those user-facing functions.
-
-## 5. Browsing and page access
-
-SureLive may access supported webpages in order to detect media, subtitles, playback state, and other information required for its learning features.
-
-SureLive does not use browsing activity to build advertising profiles.
-
-Page access is used to provide SureLive's declared learning and media-related functionality.
-
-## 6. Advertising and sale of data
-
-SureLive currently contains no advertising system.
-
-SureLive does not sell user data.
-
-SureLive does not use user data for creditworthiness, lending, advertising profiling, or unrelated behavioral tracking.
-
-## 7. Accounts and payment information
-
-SureLive currently does not require a SureLive account.
-
-SureLive currently does not process payments and does not collect payment-card or banking information.
-
-If account, synchronization, subscription, or payment functionality is introduced in the future, this Privacy Policy must be updated before those features are released.
-
-## 8. Data sharing
-
-SureLive does not share user data with third parties except when:
-
-- it is necessary to provide a feature explicitly requested by the user through a third-party service;
-- disclosure is required by law; or
-- the user explicitly chooses to export or share information.
-
-SureLive does not sell user information to third parties.
-
-## 9. Data retention
-
-Data stored locally by SureLive remains on the user's device until it is deleted by the user, cleared by the browser, or removed as part of uninstalling or resetting the extension.
-
-Temporary media, audio, subtitle, or analysis data may be discarded when it is no longer required for the active learning session, depending on the feature.
-
-## 10. Security
-
-SureLive is designed to request only browser permissions necessary for its functionality.
-
-Where information must be transmitted to an external service, secure HTTPS connections are used where supported and required.
-
-## 11. Children's privacy
-
-SureLive is a general-purpose language-learning tool and is not specifically designed to collect personal information from children.
-
-SureLive does not knowingly operate a service intended to collect personal information from children.
-
-## 12. Changes to this policy
-
-This Privacy Policy may be updated when SureLive adds or changes features, data processing, storage, third-party integrations, or other relevant functionality.
-
-The latest version will be published in this repository or on the official SureLive support/privacy page.
-
-## 13. Contact
-
-For privacy questions, bug reports, or other inquiries, use the support channel linked from this repository and the SureLive browser-extension store listing.
+[中文](privacy-policy.zh-CN.md) · [Help](support.md)
