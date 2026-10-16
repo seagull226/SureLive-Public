@@ -4,6 +4,8 @@
 
 ## 中文
 
+上游基线：asbplayer 提交 [`4b29212afa25d519286b2eeffd8a91dc18572f98`](https://github.com/asbplayer/asbplayer/commit/4b29212afa25d519286b2eeffd8a91dc18572f98)，采用 MIT 许可。Git 描述为 `v1.20.0-50-g4b29212a`，即 v1.20.0 之后的开发提交，不标为 v1.20.0 正式版。
+
 SureLive 基于 [asbplayer](https://github.com/asbplayer/asbplayer) 进行集成与定制，由 SureLive Studio 独立维护，并非官方关联产品。asbplayer 的 MIT 版权及许可声明保留在扩展包的 `licenses/ASB-LICENSE.md` 中。
 
 SureLive 使用第三方组件，各组件保留其各自许可。扩展包的 `licenses/` 目录提供具体许可正文及声明，包括 asbplayer（MIT）、CMU 词典、ECDICT（MIT）、Roboto（Apache-2.0）、在线词典来源说明及其他依赖声明。asbplayer 的 MIT 许可不代表所有组件均采用同一许可。
@@ -13,6 +15,8 @@ lamejs 的适用 LGPL 条款、对应库源码、项目补丁、必要适配器�
 词典查询卡保留来源及许可署名。分级参考公开资料，用于学习参考，不代表官方等级认证。用户打开或导出的媒体仍适用其原有权利与使用条件。
 
 ## English
+
+Upstream baseline: asbplayer commit [`4b29212afa25d519286b2eeffd8a91dc18572f98`](https://github.com/asbplayer/asbplayer/commit/4b29212afa25d519286b2eeffd8a91dc18572f98), under the MIT license. Its Git description is `v1.20.0-50-g4b29212a`, a development commit after v1.20.0 rather than the v1.20.0 release itself.
 
 SureLive integrates and customizes [asbplayer](https://github.com/asbplayer/asbplayer) and is independently maintained by SureLive Studio, without official affiliation. The asbplayer MIT copyright and permission notice is retained in `licenses/ASB-LICENSE.md` in the extension package.
 

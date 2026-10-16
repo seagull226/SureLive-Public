@@ -14,6 +14,8 @@ SureLive is a lightweight browser extension for learning English with videos. On
 
 This is the first Edge preview. Verified use covers YouTube, Bilibili, Baidu Netdisk video pages and Local Cinema. Existing website integrations and generic video detection theoretically support additional video websites, but these have not been verified. Actual availability depends on the website's player and subtitle sources.
 
+**Theoretical support — not verified in this release:** Netflix, Amazon Prime Video, Disney+, Hulu, Crunchyroll, TVer, Bandai Channel, U-NEXT, Viki, Max / HBO Max, Twitch, Stremio, Plex, Emby, Jellyfin, and other websites with compatible web players. These may work through inherited website integrations or generic video detection; individual features depend on the player, subtitle sources and website restrictions.
+
 Seven interface languages are available: Simplified Chinese, English, Japanese, German, French, Spanish and Russian. Choose a familiar interface language to support your English video learning.
 
 Local playback depends on Edge's supported audio and video codecs. Online translation, dictionaries and configured AI services require internet access. Subtitle availability and exported media depend on the video source and browser permissions.

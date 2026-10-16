@@ -2,11 +2,13 @@
 
 版本：0.1.6。单一用途：通过视频字幕、定位复读、查词收藏和学习卡片导出辅助英语学习。
 
-SureLive 基于 MIT 许可的 [asbplayer](https://github.com/asbplayer/asbplayer) 进行集成与定制，由 SureLive Studio 独立维护，并非 asbplayer 官方发行版。相关版权及许可随扩展包提供。
+SureLive 基于 MIT 许可的 [asbplayer](https://github.com/asbplayer/asbplayer) 进行集成与定制，由 SureLive Studio 独立维护，并非 asbplayer 官方发行版。相关版权及许可随扩展包提供。上游基线为提交 [`4b29212a`](https://github.com/asbplayer/asbplayer/commit/4b29212afa25d519286b2eeffd8a91dc18572f98)，Git 版本描述为 `v1.20.0-50-g4b29212a`，属于 v1.20.0 之后的开发提交，而非 v1.20.0 正式版。
 
 界面提供简体中文、英语、日语、德语、法语、西班牙语和俄语选项。首版定位英语学习；语言选项不代表所有页面已完成七语实测。
 
 已验证的平台见下方操作步骤；基于继承的网站适配与通用视频检测，理论上支持更多视频网站，但未经验证，效果取决于播放器和字幕来源。
+
+**理论支持，未经本版验证：** Netflix、Amazon Prime Video、Disney+、Hulu、Crunchyroll、TVer、Bandai Channel、U-NEXT、Viki、Max / HBO Max、Twitch、Stremio、Plex、Emby、Jellyfin，以及其他带兼容网页播放器的网站。以上网站可通过继承的网站适配或通用视频检测尝试使用，具体功能取决于播放器、字幕来源及网站限制。
 
 ## 操作步骤
 

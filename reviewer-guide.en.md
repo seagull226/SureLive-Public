@@ -2,11 +2,13 @@
 
 Version: 0.1.6. Single purpose: help users learn English through video subtitles, sentence seeking and replay, dictionary lookup, saved items and study-card export.
 
-SureLive integrates and customizes [asbplayer](https://github.com/asbplayer/asbplayer) under its MIT license. It is independently maintained by SureLive Studio, not an official asbplayer release. Applicable copyright and license notices accompany the extension.
+SureLive integrates and customizes [asbplayer](https://github.com/asbplayer/asbplayer) under its MIT license. It is independently maintained by SureLive Studio, not an official asbplayer release. Applicable copyright and license notices accompany the extension. The upstream baseline is commit [`4b29212a`](https://github.com/asbplayer/asbplayer/commit/4b29212afa25d519286b2eeffd8a91dc18572f98), described by Git as `v1.20.0-50-g4b29212a`: a development commit after v1.20.0, not the v1.20.0 release itself.
 
 Interface options include Simplified Chinese, English, Japanese, German, French, Spanish and Russian. This preview focuses on English learning; available language options do not imply that every page has been manually tested in all seven languages.
 
 Verified platforms are listed in the steps below. Inherited website integrations and generic video detection theoretically support additional video websites, but these have not been verified; results depend on the player and subtitle sources.
+
+**Theoretical support — not verified in this release:** Netflix, Amazon Prime Video, Disney+, Hulu, Crunchyroll, TVer, Bandai Channel, U-NEXT, Viki, Max / HBO Max, Twitch, Stremio, Plex, Emby, Jellyfin, and other websites with compatible web players. These may work through inherited website integrations or generic video detection; individual features depend on the player, subtitle sources and website restrictions.
 
 ## Steps
 
