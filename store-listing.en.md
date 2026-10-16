@@ -12,7 +12,9 @@ Short description: Learn English with video, bilingual subtitles, sentence repla
 
 SureLive is a lightweight browser extension for learning English with videos. On supported video pages, view bilingual subtitles, click a subtitle to jump to that moment, and repeat the current sentence. In Local Cinema, open your own video and SRT, VTT or ASS subtitles, adjust playback speed, look up words, and save words and sentences. Saved items and settings stay in your browser. Anki export creates APKG decks; included media depends on source availability and recording conditions.
 
-This is the first Edge preview. Verified use covers YouTube, Bilibili, Baidu Netdisk video pages and Local Cinema. Some other video websites may also work but have not been individually verified; availability depends on the website's player and subtitle sources.
+This is the first Edge preview. Verified use covers YouTube, Bilibili, Baidu Netdisk video pages and Local Cinema. Existing website integrations and generic video detection theoretically support additional video websites, but these have not been verified. Actual availability depends on the website's player and subtitle sources.
+
+Seven interface languages are available: Simplified Chinese, English, Japanese, German, French, Spanish and Russian. Choose a familiar interface language to support your English video learning.
 
 Local playback depends on Edge's supported audio and video codecs. Online translation, dictionaries and configured AI services require internet access. Subtitle availability and exported media depend on the video source and browser permissions.
 

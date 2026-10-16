@@ -2,6 +2,8 @@
 
 ## 中文
 
+可在设置中选择简体中文、英语、日语、德语、法语、西班牙语或俄语作为界面语言，辅助英语学习。
+
 1. 安装后点击 SureLive 图标，在支持的视频页选择可用字幕。
 2. 点击字幕定位播放，使用复读和倍速辅助学习。
 3. 本地影院中打开视频并导入 SRT、VTT 或 ASS 字幕。
@@ -11,6 +13,8 @@
 字幕可用性取决于来源；本地音视频兼容性取决于 Edge 支持的编码；导出媒体取决于来源、权限与录制条件。在线服务异常时可继续播放原视频，稍后重试。
 
 ## English
+
+In settings, choose Simplified Chinese, English, Japanese, German, French, Spanish or Russian as your interface language to support English learning.
 
 1. After installation, open the SureLive icon and select available subtitles on a supported video page.
 2. Click subtitles to seek and use replay or playback speed to study.

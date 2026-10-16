@@ -2,6 +2,12 @@
 
 Version: 0.1.6. Single purpose: help users learn English through video subtitles, sentence seeking and replay, dictionary lookup, saved items and study-card export.
 
+SureLive integrates and customizes [asbplayer](https://github.com/asbplayer/asbplayer) under its MIT license. It is independently maintained by SureLive Studio, not an official asbplayer release. Applicable copyright and license notices accompany the extension.
+
+Interface options include Simplified Chinese, English, Japanese, German, French, Spanish and Russian. This preview focuses on English learning; available language options do not imply that every page has been manually tested in all seven languages.
+
+Verified platforms are listed in the steps below. Inherited website integrations and generic video detection theoretically support additional video websites, but these have not been verified; results depend on the player and subtitle sources.
+
 ## Steps
 
 1. Install the submitted package and open the SureLive icon and settings. Core learning does not require account registration or a self-hosted server.
