@@ -2,7 +2,7 @@
 
 ## 中文
 
-可在设置中选择简体中文、英语、日语、德语、法语、西班牙语或俄语作为界面语言，并选择英语、日语、法语、西班牙语、德语或中文作为学习语言。
+可在设置中选择简体中文、英语、日语、德语、法语或西班牙语作为界面语言，并选择英语、日语、法语、西班牙语、德语或中文作为学习语言。
 
 1. 安装后点击 SureLive 图标，在支持的视频页选择可用字幕。
 2. 点击字幕定位播放，使用复读和倍速辅助学习。
@@ -14,7 +14,7 @@
 
 ## English
 
-In settings, choose Simplified Chinese, English, Japanese, German, French, Spanish or Russian as your interface language, and select English, Japanese, French, Spanish, German or Chinese as your target learning language.
+In settings, choose Simplified Chinese, English, Japanese, German, French or Spanish as your interface language, and select English, Japanese, French, Spanish, German or Chinese as your target learning language.
 
 1. After installation, open the SureLive icon and select available subtitles on a supported video page.
 2. Click subtitles to seek and use replay or playback speed to study.

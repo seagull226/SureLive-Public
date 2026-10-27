@@ -16,7 +16,7 @@ Verified use covers YouTube, Bilibili, Baidu Netdisk video pages and Local Cinem
 
 **Theoretical support — not verified in this release:** Netflix, Amazon Prime Video, Disney+, Hulu, Crunchyroll, TVer, Bandai Channel, U-NEXT, Viki, Max / HBO Max, Twitch, Stremio, Plex, Emby, Jellyfin, and other websites with compatible web players. These may work through inherited website integrations or generic video detection; individual features depend on the player, subtitle sources and website restrictions.
 
-Seven interface languages are available: Simplified Chinese, English, Japanese, German, French, Spanish and Russian. Choose a familiar interface language to support your video language learning.
+Six interface languages are available: Simplified Chinese, English, Japanese, German, French and Spanish. Choose a familiar interface language to support your video language learning.
 
 Local playback depends on the browser's supported audio and video codecs. Online translation, dictionaries, subtitle search and configured AI services require internet access. Subtitle availability and exported media depend on the video source and browser permissions.
 

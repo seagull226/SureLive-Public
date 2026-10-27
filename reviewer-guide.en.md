@@ -4,7 +4,7 @@ Version: 0.1.7. Single purpose: help users learn English and supported target la
 
 SureLive integrates and customizes [asbplayer](https://github.com/asbplayer/asbplayer) under its MIT license. It is independently maintained by SureLive Studio, not an official asbplayer release. Applicable copyright and license notices accompany the extension. The upstream baseline is commit [`4b29212a`](https://github.com/asbplayer/asbplayer/commit/4b29212afa25d519286b2eeffd8a91dc18572f98), described by Git as `v1.20.0-50-g4b29212a`: a development commit after v1.20.0, not the v1.20.0 release itself.
 
-Interface options include Simplified Chinese, English, Japanese, German, French, Spanish and Russian. Target learning support covers English as well as Japanese, French, Spanish, German and Chinese subtitle analysis and frequency reference.
+Interface options include Simplified Chinese, English, Japanese, German, French and Spanish. Target learning support covers English as well as Japanese, French, Spanish, German and Chinese subtitle analysis and frequency reference.
 
 Verified platforms are listed in the steps below. Inherited website integrations and generic video detection theoretically support additional video websites, but these have not been verified; results depend on the player and subtitle sources.
 

@@ -10,7 +10,7 @@ SureLive 是面向英语及多语种（日语、法语、西班牙语、德语�
 
 **理论支持，未经本版验证：** Netflix、Amazon Prime Video、Disney+、Hulu、Crunchyroll、TVer、Bandai Channel、U-NEXT、Viki、Max / HBO Max、Twitch、Stremio、Plex、Emby、Jellyfin，以及其他带兼容网页播放器的网站。以上网站可通过继承的网站适配或通用视频检测尝试使用，具体功能取决于播放器、字幕来源及网站限制。
 
-提供简体中文、英语、日语、德语、法语、西班牙语和俄语七种界面语言，可选择熟悉的界面语言辅助视频外语学习。
+提供简体中文、英语、日语、德语、法语和西班牙语六种界面语言，可选择熟悉的界面语言辅助视频外语学习。
 
 本地播放兼容性取决于浏览器支持的音视频编码。在线翻译、词典、在线字幕检索和自行配置的 AI 服务需要联网，会向相应服务发送相关文本。
 
@@ -22,7 +22,7 @@ Verified use covers YouTube, Bilibili, Baidu Netdisk video pages and Local Cinem
 
 **Theoretical support — not verified in this release:** Netflix, Amazon Prime Video, Disney+, Hulu, Crunchyroll, TVer, Bandai Channel, U-NEXT, Viki, Max / HBO Max, Twitch, Stremio, Plex, Emby, Jellyfin, and other websites with compatible web players. These may work through inherited website integrations or generic video detection; individual features depend on the player, subtitle sources and website restrictions.
 
-Seven interface languages are available: Simplified Chinese, English, Japanese, German, French, Spanish and Russian. Choose a familiar interface language to support your video language learning.
+Six interface languages are available: Simplified Chinese, English, Japanese, German, French and Spanish. Choose a familiar interface language to support your video language learning.
 
 Local playback depends on the audio and video codecs supported by the browser. Online translation, dictionaries, subtitle search and configured AI services require internet access and send relevant text to the selected service.
 
